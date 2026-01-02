@@ -1,0 +1,94 @@
+ * {
+    font-family: sans-serif;
+}
+
+body {
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.box {
+    width: 70px;
+    height: 70px;
+    border-radius: 4px;
+    text-align: center;
+}
+
+.formula {
+    font-weight: 600;
+    font-size: 30px;
+    display: block;
+}
+
+.name {
+    font-size: 11px;
+    letter-spacing: 0.5px;
+}
+
+.atomicNo {
+    font-size: 11px;
+    margin-right: 50px;
+    font-weight: 600;
+
+}
+.blue {
+    background-color: #E5EEFF;
+    color: #275FD0;
+}
+
+.icyCyan {
+    background-color: #DBF9FB;
+    color: #15687A;
+}
+
+.red {
+    background-color: #FEE9E6;
+    color: #C2133A;
+}
+
+.purple {
+    background-color: #F3E7FB;
+    color: #5536BF;
+}
+
+.green {
+    background-color: #D9F7EB;
+    color: #0C3110;
+}
+
+.yellow {
+    background-color: #FEF8E2;
+    color: #8B5F22;
+}
+
+.pink {
+    background-color: #FFE6EB;
+    color: #BD2055;
+}
+
+.gray {
+    background-color: #E8E7EC;
+    color: #393647;
+}
+
+.icyBlue {
+    background-color: #E1F3FF;
+    color: #0C304A;
+}
+
+.orange {
+    background-color: #FFE5D6;
+    color: #B3301C;
+}
+
+.table1 {
+    margin-top: 30px;
+} 
+
+.table2 {
+    margin-top: 50px;
+    margin-left: 140px;
+}
