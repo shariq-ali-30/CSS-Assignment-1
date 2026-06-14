@@ -6,8 +6,6 @@ This project is a periodic table design created using HTML and CSS.
 
 The purpose of this assignment was to practice CSS styling, colors, layouts, hover effects, and organizing elements using classes while creating a visual representation of chemical elements.
 
-<img width="1600" height="900" alt="IMG-20260103-WA0001" src="https://github.com/user-attachments/assets/edbcdfbf-56b4-41d7-8a43-3103dda7d274" />
-
 ## Technologies Used
 
 - HTML5
