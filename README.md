@@ -1,3 +1,4 @@
+<img width="1600" height="900" alt="IMG-20260103-WA0001" src="https://github.com/user-attachments/assets/edbcdfbf-56b4-41d7-8a43-3103dda7d274" />
 # Periodic Table Design
 
 ## About The Project
